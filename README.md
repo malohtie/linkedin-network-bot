@@ -11,4 +11,4 @@ Ctrl + Shift + I if you're in chrome
 * nb_pages - responsible for the number of pages that the script will scroll. The default is 5 pages.
 
 # note
-* the script will wait between sending invitations to prevent spamming. The default value is between 2 seconds and 20 seconds.
+* the script will wait between sending invitations to prevent spamming. The default value is between 5 seconds and 60 seconds.
