@@ -12,3 +12,4 @@ Ctrl + Shift + I if you're in chrome
 
 # note
 * the script will wait between sending invitations to prevent spamming. The default value is between 5 seconds and 60 seconds.
+* you may be limited from sending invitations, use it in your own risk.
